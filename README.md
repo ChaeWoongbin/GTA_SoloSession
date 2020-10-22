@@ -9,3 +9,10 @@ start 클릭시
 gta프로세스 화면에 띄우기
 
 프로그램 자동종료
+
+
+
+
+
+
+https://www.notion.so/GTA5-C-5ec257e4f33748e899bc8591e75ac397
